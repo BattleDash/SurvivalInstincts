@@ -1,0 +1,6 @@
+name: SurvivalInstincts
+version: '${project.version}'
+main: com.battledash.survivalinstincts.SurvivalInstincts
+author: BattleDash
+description: Tomb Raider Survival Instincts
+website: https://battleda.sh
